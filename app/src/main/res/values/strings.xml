@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="please_allow_contact_permission">Please allow contact Permission!!</string>
+    <string name="allow">Allow</string>
+</resources>
